@@ -25,8 +25,3 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/de.kay.edem/)
 
 *"Data tells a story, and I'm here to translate it."*
-
----
-### 📊 My GitHub Stats
-![Delkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delkay-byte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delkay-byte&layout=compact&theme=radical)
