@@ -14,7 +14,7 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 ---
 
 ### 🚀 Featured Projects
-- [🍕 Pizza Sales Analysis](https://github.com/Delkay-byte/pizza-sales-repo-name)
+- [🍕 Pizza Sales Analysis](https://github.com/Delkay-byte/pizza-sales-analysis)
 - [🎬 Netflix Content Strategy](https://github.com/Delkay-byte/Netflix-Titles-Analysis)
 
 ---
