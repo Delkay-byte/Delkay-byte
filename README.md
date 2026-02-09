@@ -1,4 +1,4 @@
-# Hi, I'm Delkay! 👋
+# Hi, I'm Saviour Amegayie! 👋
 
 ### 🍎 Educator Turned Data Scientist 📊 
 After 6 years of shaping minds in the classroom, I am now leveraging my analytical mindset and love for logic to solve complex problems through **Data Science**. Currently mastering the craft at **TechCrush**.
@@ -15,7 +15,7 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 
 ### 🚀 Featured Projects
 - [🍕 Pizza Sales Analysis](https://github.com/Delkay-byte/pizza-sales-repo-name)
-- [🎬 Netflix Content Strategy](https://github.com/Delkay-byte/netflix-repo-name)
+- [🎬 Netflix Content Strategy](https://github.com/Delkay-byte/Netflix-Trend-Analysis)
 
 ---
 
