@@ -6,8 +6,8 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 ---
 
 ### 🛠️ My Tech Stack
-- Languages & Core Data Science: * Python: (Pandas, NumPy, Scikit-Learn, XGBoost)
-- Data Engineering: ETL Pipelines, Winsorization (Outlier Handling), Feature Engineering.
+- Languages & Core Data Science: Python: (Pandas, NumPy, Scikit-Learn, XGBoost)
+  * Data Engineering: ETL Pipelines, Winsorization (Outlier Handling), Feature Engineering.
 - Machine Learning & Modelling:
   * Regression: Random Forest, Decision Trees, Linear Regression.
   * Evaluation: $R^2$ Scoring, Mean Absolute Error (MAE) Analysis.
