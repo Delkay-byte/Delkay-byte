@@ -6,10 +6,18 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 ---
 
 ### 🛠️ My Tech Stack
-- **Languages:** Python (Pandas, NumPy, Matplotlib)
-- **Databases:** SQL
-- **Tools:** Jupyter Notebooks, Git/GitHub
-- **Focus:** Data Visualisation, Machine Learning, Exploratory Data Analysis (EDA)
+- Languages & Core Data Science: * Python: (Pandas, NumPy, Scikit-Learn, XGBoost)
+- Data Engineering: ETL Pipelines, Winsorization (Outlier Handling), Feature Engineering.
+- Machine Learning & Modelling:
+  * Regression: Random Forest, Decision Trees, Linear Regression.
+  * Evaluation: $R^2$ Scoring, Mean Absolute Error (MAE) Analysis.
+- Databases & Tools:
+  * SQL: (Data Extraction & Manipulation)
+  * Workflow: Jupyter Notebooks, Git/GitHub, Gamma (Data Storytelling).
+- Focus:
+  * Exploratory Data Analysis (EDA): Uncovering "Biological Realities" in climate and agricultural data.
+  * Data Visualisation: Matplotlib, Seaborn (Interactive & Static Reporting).
+  * Strategy: Translating ML insights into actionable policy (The "Belgium Model").
 
 ---
 
