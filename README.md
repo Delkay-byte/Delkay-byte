@@ -34,7 +34,8 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 
 ### 📫 Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saviour-amegayie-ds)
 [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DelaEdem143)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/de.kay.edem/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Delkay-byte)
 
 *"Data tells a story, and I'm here to translate it."*
