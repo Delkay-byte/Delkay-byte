@@ -13,7 +13,9 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
   * Evaluation: $R^2$ Scoring, Mean Absolute Error (MAE) Analysis.
 - Databases & Tools:
   * SQL: (Data Extraction & Manipulation)
-  * Workflow: Jupyter Notebooks, Git/GitHub, Gamma (Data Storytelling).
+  * Workflow: Jupyter Notebooks, Git/GitHub, Gamma (Data Storytelling)
+  * Streamlit
+  * Plotly
 - Focus:
   * Exploratory Data Analysis (EDA): Uncovering "Biological Realities" in climate and agricultural data.
   * Data Visualisation: Matplotlib, Seaborn (Interactive & Static Reporting).
@@ -25,6 +27,7 @@ After 6 years of shaping minds in the classroom, I am now leveraging my analytic
 - [🌾Predictive-Agriculture-Analysis](https://github.com/Delkay-byte/Predictive-Agriculture-Analysis)
 - [⚽ FIFA-21-Data-Analytics](https://github.com/Delkay-byte/FIFA-21-Data-Analytics)
 - [🍕 Pizza Sales Analysis](https://github.com/Delkay-byte/pizza-sales-analysis)
+- [🇬🇭 GES Resource Predictor (In-Progress)](**Project Description:** Automating the extraction of shredded PDF data (MoE/GSS/UNICEF) to predict regional educational implementation gaps using advanced Data Fusion.)
 
 
 ---
